@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide" # A opção "centered" coloca a página numa coluna central
 )
 
-st.title("📊 Superstore para Dashboard teste")
+st.title("📊 A Superstore para Dashboard")
 st.markdown("Dashboard de vendas")
 
 # --------------------------------------------------
